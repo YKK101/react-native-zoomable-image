@@ -1,3 +1,3 @@
-import ZoomableImage from './src/ZoomableImage'
+import ZoomableImage from './src/libs/ZoomableImage'
 
 export { ZoomableImage }
