@@ -1,0 +1,25 @@
+{
+  "name": "react-native-zoomable-image",
+  "version": "0.1.0",
+  "description": "It's javascript only for make <Image /> zoomable on both iOS and android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YKK101/react-native-zoomable-image.git"
+  },
+  "keywords": [
+    "react-native",
+    "zoom",
+    "image",
+    "pinch"
+  ],
+  "author": "Kanya K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YKK101/react-native-zoomable-image/issues"
+  },
+  "homepage": "https://github.com/YKK101/react-native-zoomable-image#readme"
+}
